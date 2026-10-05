@@ -4,11 +4,11 @@
 
 <p align="center"><img src="Preview.png" alt="시작화면의 선생님과 의료기구 배경" width="400"></p>
 
-## 0.2 베타 다운로드
+## 0.21 베타 다운로드
 
-**[Windows 64비트 게임 다운로드](https://github.com/itsmemanright/CNSS/releases/download/v0.2/CNSS-0.2-Windows-x64.zip)**
+**[Windows 64비트 게임 다운로드](https://github.com/itsmemanright/CNSS/releases/download/v0.21/CNSS-0.21-Windows-x64.zip)**
 
-[버전 설명과 다운로드 파일](https://github.com/itsmemanright/CNSS/releases/tag/v0.2)
+[버전 설명과 다운로드 파일](https://github.com/itsmemanright/CNSS/releases/tag/v0.21)
 
 1. 위 링크에서 ZIP 파일을 받습니다.
 2. ZIP 파일 전체를 원하는 폴더에 압축 해제합니다.
@@ -17,6 +17,9 @@
 Unity 설치는 필요하지 않습니다. `CNSS_Data`, `MonoBleedingEdge`, DLL 파일들을 실행 파일과 같은 폴더에 그대로 두세요.
 
 ## 이번 버전
+
+- 환경설정을 열지 않아도 기본 60 FPS 제한 적용
+- 게임에서 메인화면으로 돌아올 때 배경음악 중복 재생 수정
 
 - 핵심간호술 15종의 연습·채점·자유 모드
 - 크림 배경과 민트 테두리 UI, 간호술기 책과 기록 확인
