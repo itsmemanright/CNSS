@@ -1,4 +1,4 @@
-# 크레딧
+# 게임 크레딧
 
 총괄 디렉터
 삼육대학교 간호학과 재학생 선민우
@@ -56,6 +56,7 @@ https://assetstore.unity.com/packages/3d/environments/embersstorm-free-nature-pa
 의료 소품 · Meshy 생성 에셋 및 자체 제작
 Meshy로 생성한 의료 소품을 게임용으로 가공·배치했습니다.
 손소독제·고막 체온계: Meshy T2 스마트 토폴로지 생성, Meshy 6 텍스처, Blender 가공 (2026.10.04)
+정수기·옷 보호 타월: Meshy 3D 생성·텍스처, Unity용 크기·재질 조정 (2026.10.05)
 생성 도구: https://www.meshy.ai/
 실습실 가구·기구·의상 일부는 Blender와 프로젝트 코드로 제작·수정했습니다.
 
@@ -110,3 +111,23 @@ JP 배액기 모델: Meshy Smart Topology T2 · 2026-10-04 생성 · 3,000면 �
 MedlinePlus · Vital signs
 https://medlineplus.gov/ency/article/002341.htm
 성인 안정 상태 자료를 참고해 게임용 정상 주변 무작위 범위를 구성했습니다.
+
+경구투약 수행 참고
+Open RN · Nursing Skills · Administration of Oral Medications
+https://www.ncbi.nlm.nih.gov/books/NBK596740/
+
+
+환자 체위 최종 자세 참고
+Meshy Text to Motion · 2026.10.06 생성
+생성 결과의 최종 자세를 참고해 기존 환자 골격과 환의를 조정했습니다.
+체위 변경은 중간 동작 없이 최종 자세로 전환합니다.
+
+추가 간호 수행 참고
+현문사 핵심술기 3. 근육주사
+https://youtu.be/9f8rzK8ClE8
+삼육대학교 핵심간호술 영상 재생목록
+https://www.youtube.com/playlist?list=PLvM9uc7NFpwUDjMjAIRZkeCAfTv3Hu69u
+CUH · 위관 관리 및 위치 확인
+https://www.cuh.nhs.uk/patient-information/how-do-i-look-after-my-nasogastric-tube-ngt/
+AARC · Artificial Airway Suctioning (2022)
+https://www.aarc.org/wp-content/uploads/2022/10/cpg-artificial-airway-suctioning.pdf
