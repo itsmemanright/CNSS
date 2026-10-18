@@ -1,25 +1,26 @@
 # CNSS · Core Nursing Skills Simulator
 
-간호술기를 직접 연습하는 Windows용 시뮬레이터입니다.
+간호술기를 직접 연습하는 Windows·Android 시뮬레이터입니다.
 
 <p align="center"><img src="Preview.png" alt="시작화면의 선생님과 의료기구 배경" width="400"></p>
 
-## 0.25 베타 다운로드
+## 최신 다운로드
 
-**[Windows 64비트 게임 다운로드](https://github.com/itsmemanright/CNSS/releases/download/v0.25/CNSS-0.25-Windows-x64.zip)**
+- **[Android 최신 버전 다운로드](https://github.com/itsmemanright/CNSS/releases/tag/android-latest)** — 활력징후·근육주사·경구투약 3종. 나머지 술기는 잠금으로 표시됩니다.
+- **[Windows 최신 버전 다운로드](https://github.com/itsmemanright/CNSS/releases/latest)** — 핵심간호술 15종.
 
-[버전 설명과 다운로드 파일](https://github.com/itsmemanright/CNSS/releases/tag/v0.25)
+위 페이지 주소는 계속 유지됩니다. 새 버전을 받을 때도 같은 링크를 사용하세요.
 
-1. 위 링크에서 ZIP 파일을 받습니다.
-2. ZIP 파일 전체를 원하는 폴더에 압축 해제합니다.
-3. 압축을 푼 폴더의 **CNSS.exe**를 실행합니다.
-
-Unity 설치는 필요하지 않습니다. `CNSS_Data`, `MonoBleedingEdge`, DLL 파일들을 실행 파일과 같은 폴더에 그대로 두세요.
+Android는 APK 파일을 설치하세요. Windows는 ZIP 전체를 풀고 **CNSS.exe**를 실행하세요. Unity 설치는 필요하지 않습니다. `CNSS_Data`, `MonoBleedingEdge`, DLL을 함께 보관하세요.
 
 ## 이번 버전
 
+- 게임 중 메뉴에서도 모바일 화면·조작 설정 변경, 조이스틱 100~180% 크기 조절
+- 모바일 행동·사용 원형 버튼, 기본 드래그 감도 향상, 전체 술기 목록과 잠금 표시
+- 상세 술기 안내 글씨 통일, PC 안내 배경 제거와 제한시간 우측 상단 배치
+
 - 손씻기 동안 시작한 시선을 그대로 유지
-- 장비 기능 확인은 손을 숨기고 장비만 화면 중앙에 표시
+- 별도 기구 기능 점검·기능 확인 버튼 제거. 필수 물품과 새 소독솜 2개는 계속 준비
 - 고막 체온계를 들 때 손 숨김, 귓구멍 방향으로 탐침 각도 조정, 측정 뒤 표시창 확인 자동 연결
 - 맥박 촉지 위치를 환자 손목 엄지 쪽 실제 피부에 맞춤
 - 실습 일시정지 중 시계 정지와 연습 예상 점수의 시간 초과 감점 수정
@@ -40,7 +41,6 @@ Unity 설치는 필요하지 않습니다. `CNSS_Data`, `MonoBleedingEdge`, DLL 
 | WASD / Shift / Space | 이동 / 달리기 / 점프 |
 | 마우스 왼쪽 버튼 | 집기·놓기·대화·기본 술기 행동 |
 | 마우스 오른쪽 버튼 | 기구 착용·문서 읽기 등 추가 행동 |
-| 마우스 휠 클릭 | 프로토콜에 필요한 기구 기능 확인 |
 | 마우스 휠 위·아래 | 혈압 감압 속도 조절 |
 | R | 동작·대화 배속 변경 |
 | F1 / F2 / F3 / F4 | 메뉴 / 프로토콜 / 시계 / 책 |
@@ -56,3 +56,5 @@ Unity 설치는 필요하지 않습니다. `CNSS_Data`, `MonoBleedingEdge`, DLL 
 [에셋·음악·글꼴 및 참고자료 크레딧](CREDITS.md)
 
 이 저장소는 게임 배포와 안내를 위한 공간입니다. 게임에 포함된 제3자 에셋에는 각각의 이용약관이 적용됩니다.
+
+Android 조작: 왼쪽 스틱 이동 · 화면 드래그 시점 이동 · 우측 큰 원 행동 · 위 작은 원 사용. 게임 중 메뉴 → 화면·조작 설정에서 화면 비율과 버튼·조이스틱 크기를 변경할 수 있습니다.
