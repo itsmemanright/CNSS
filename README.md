@@ -4,11 +4,11 @@
 
 <p align="center"><img src="Preview.png" alt="시작화면의 선생님과 의료기구 배경" width="400"></p>
 
-## 0.24 베타 다운로드
+## 0.25 베타 다운로드
 
-**[Windows 64비트 게임 다운로드](https://github.com/itsmemanright/CNSS/releases/download/v0.24/CNSS-0.24-Windows-x64.zip)**
+**[Windows 64비트 게임 다운로드](https://github.com/itsmemanright/CNSS/releases/download/v0.25/CNSS-0.25-Windows-x64.zip)**
 
-[버전 설명과 다운로드 파일](https://github.com/itsmemanright/CNSS/releases/tag/v0.24)
+[버전 설명과 다운로드 파일](https://github.com/itsmemanright/CNSS/releases/tag/v0.25)
 
 1. 위 링크에서 ZIP 파일을 받습니다.
 2. ZIP 파일 전체를 원하는 폴더에 압축 해제합니다.
