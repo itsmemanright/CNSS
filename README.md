@@ -8,12 +8,12 @@
 
 ### [Windows와 Android 최신 버전 받기](https://github.com/itsmemanright/CNSS/releases/latest)
 
-현재 버전: **0.26 · 2026-10-20**
+현재 배포: **Windows 0.26 · Android 0.26.1 · 2026-10-20**
 
 | 플랫폼 | 바로 다운로드 | 제공 범위 |
 | --- | --- | --- |
 | Windows 64비트 | [Windows ZIP](https://github.com/itsmemanright/CNSS/releases/latest/download/CNSS-Windows-latest.zip) | 구현된 핵심술기 15종 |
-| Android 64비트 | [Android APK](https://github.com/itsmemanright/CNSS/releases/latest/download/CNSS-Android-latest.apk) | 활력징후·근육주사·경구투약 3종, 나머지는 잠금 표시 |
+| Android 64비트 · 0.26.1 | [Android APK](https://github.com/itsmemanright/CNSS/releases/latest/download/CNSS-Android-latest.apk) | 활력징후·근육주사·경구투약 3종, 나머지는 잠금 표시 |
 
 위 최신 다운로드 주소는 다음 버전에서도 그대로 사용할 수 있습니다. [이전 버전](https://github.com/itsmemanright/CNSS/releases)도 남겨 둡니다. 이 저장소는 실행 파일과 이용 안내를 배포하는 곳입니다.
 
